@@ -1,0 +1,44 @@
+
+
+body{
+    background-image: linear-gradient(to right,  rgb(10, 173, 248), rgb(39, 245, 132));
+}
+
+
+.jaime1{
+    margin-left: 100px;
+    border-radius: 300px;
+}
+
+.picture-1{
+   margin-top: 30px;
+}
+
+ul{
+   font-size: 20px;
+   font-weight: 200;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.BtnDesign{
+    background-image: linear-gradient(to left,rgb(10, 173, 248), rgb(39, 245, 132),rgb(10, 173, 248));
+    color: black;
+    width: 280px;
+    height: 50px;
+    border-radius: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+
+}
+
+.nome{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    background-color: black;
+    color:aliceblue;
+    font-size: 30px;
+    padding: 30px;
+    border-radius: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
